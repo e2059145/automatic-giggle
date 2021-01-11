@@ -1,0 +1,54 @@
+<html class="__web-inspector-hide-shortcut__"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style>
+#header {
+	background-color:rgb(100,200,200);
+	colord:black;
+	text-align:center;
+	padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:1000px;
+    width:250px;
+        float:left;
+    padding:5px;
+}
+#section{
+	width:1000px;
+	float:center;
+        padding:5px;
+}
+#footer{
+	background-color:rgb(100,200,200);
+	color:black;
+	clear:both;
+	text-align:center;padding:30px;
+}
+</style>
+<style id="__web-inspector-hide-shortcut-style__">
+.__web-inspector-hide-shortcut__, .__web-inspector-hide-shortcut__ *, .__web-inspector-hidebefore-shortcut__::before, .__web-inspector-hideafter-shortcut__::after
+{
+    visibility: hidden !important;
+}
+</style></head>
+<body>
+
+<div id="header">
+<h1><em>食中毒について</em></h1>
+</div>
+<div id="nav">
+   <li><a href="https://ryuju2059141.github.io/ryuju2059141top.gifthub.io/">トップページ</a>
+    </li><li><a href="https://tomo0912.github.io/prog-8.github.io/">食中毒の種類</a>
+    </li><li><a href="https://e2059145.github.io/automatic-giggle/">食中毒の事例（国内）</a>
+    </li><li><a href="https://2059103.github.io/index.html/">食中毒の事例（海外）</a>
+    </li><li><a href="https://ryuju2059141.github.io/ryuju2059141.gifthub.io/">細菌やウイルスが<br>発生しやすい環境</a>
+    </li><li><a href="https://kamesan14325.github.io/2059132/">食中毒の予防・対策</a>
+    </li></div>
+<div id="section">
+<h1>はじめに</h1>
+</div>
+<div id="footer">
+えーてぇーぺー
+</div>
+</body></html>
